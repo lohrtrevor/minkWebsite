@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="tinderGradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b6b" />
+      <stop offset="100%" stop-color="#ff3a6d" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#tinderGradient)" />
+  <path
+    fill="#fff"
+    d="M34 10c1.2 5.7-2.7 8.6-5.2 10.6C24.5 23.8 22 27.1 22 32c0 7 5.4 12 12 12s12-5 12-12c0-6.8-5.8-12.1-10.6-15.7-1.2-.9-2.2-2-2.9-3.3-.2-.4-.3-.7-.5-1z"
+  />
+</svg>
+
