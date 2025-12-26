@@ -1214,6 +1214,24 @@
 
   .about-tiles {
     flex-wrap: wrap;
+    margin-top: 1.5rem !important;
+  }
+
+  .about-copy {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .about-text {
+    margin-top: 0;
+  }
+
+  .about-text p {
+    margin-bottom: 0.75rem;
+  }
+
+  .section-title {
+    margin-bottom: 2rem;
   }
 
   .contact-buttons {
